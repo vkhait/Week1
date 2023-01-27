@@ -1,2 +1,2 @@
 # Week1
-Excel files
+Files for the first week activities.
